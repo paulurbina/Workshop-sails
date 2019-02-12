@@ -1,20 +1,11 @@
-# lol-project
+# Workshop-Sails
 
 a [Sails v1](https://sailsjs.com) application
 
 
-### Links
-
-+ [Sails framework documentation](https://sailsjs.com/get-started)
-+ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
-+ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
-+ [Community support options](https://sailsjs.com/support)
-+ [Professional / enterprise options](https://sailsjs.com/enterprise)
-
-
 ### Version info
 
-This app was originally generated on Mon Feb 11 2019 18:25:46 GMT-0500 (GMT-05:00) using Sails v1.1.0.
+Workshop with Sails v1.1.0.
 
 <!-- Internally, Sails used [`sails-generate@1.16.5`](https://github.com/balderdashy/sails-generate/tree/v1.16.5/lib/core-generators/new). -->
 
